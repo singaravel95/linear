@@ -1,0 +1,11 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+.box{
+    height:200px;
+    
+    border:1px solid black;
+    background:linear-gradient(red 40%,orange 40%,green 40%);
+}
